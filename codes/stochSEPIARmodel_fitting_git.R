@@ -1,7 +1,9 @@
+#
 # COVID-19 MODELLING :  stochastic SEPIAR MODEL with Canadian data (FITTING)
 
 # w/ pre- and asymptomatic cases
 
+# Carmen Lia Murall
 # using: Forecasting Ebola case study: pomp codes (AAKing)
 # example codes: https://kingaa.github.io/sbied/pfilter/pf-in-Nelder-Mead.html
 
